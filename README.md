@@ -13,4 +13,4 @@ Tamaño: 134 KB
 - Gitbash 
 - Github Desktop 3.0.0
 - 
-Repositorio del curso de Bioinformática Semestre 20221
+Repositorio del curso de Bioinformática Semestre 2021
